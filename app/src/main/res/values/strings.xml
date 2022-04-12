@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dental Clinic Management System</string>
+    <string name="title">2132 Dental Clinic Management System</string>
+    <string name="receptionist_welcome">Welcome to the Receptionist UI</string>
+    <string name="button_receptionist">Receptionist UI</string>
+    <string name="button_dentist_hygienist">Dentist and Hygienist UI</string>
+    <string name="button_patient">Patient UI</string>
+    <string name="button_home">Back to Homepage</string>
+</resources>
